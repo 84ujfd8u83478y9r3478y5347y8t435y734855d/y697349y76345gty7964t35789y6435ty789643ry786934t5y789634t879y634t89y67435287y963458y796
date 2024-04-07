@@ -76,7 +76,7 @@
   ],
   "Videos": [
     {
-      "BlobUrl": "https://www.youtube.com/watch?v=Q2FC8pc_rQg",
+      "BlobName": "deez.mp4",
       "Title": "Test",
       "Description": "Test",
       "ThumbnailBlobName": "Community/Videos/PlaceHolder.jpg",
