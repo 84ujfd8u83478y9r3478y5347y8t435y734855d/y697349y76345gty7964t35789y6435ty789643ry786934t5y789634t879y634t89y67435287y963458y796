@@ -1,0 +1,111 @@
+{
+  "ChallengeMapId": 299,
+  "ChallengeThemeString": "Super Gay",
+  "ChallengeThemeID": 1,
+  "Challenges": [
+    {
+      "ChallengeId": 162,
+      "Name": "CompleteLS",
+      "Config": "{\"ct\":0,\"ipc\":false,\"wc\":[{\"ct\":6,\"vs\":[2]},{\"ct\":9,\"vs\":[true],\"v\":\"won\"},{\"ct\":7,\"vs\":[{\"l\":\"7e01cfe0-820a-406f-b1b3-0a5bf575235c\"}]}]}",
+      "Description": "Complete the ^IsleofLostSkulls quest",
+      "Tooltip": "Vanquish Ghost Beard in the Isle of Lost Skulls quest!",
+      "Complete": false
+    },
+    {
+      "ChallengeId": 168,
+      "Name": "Complete10LaserTag",
+      "Config": "{\"ct\":1,\"ipc\":false,\"ctc\":[{\"ct\":0,\"ipc\":false,\"wc\":[{\"ct\":6,\"vs\":[2]},{\"ct\":7,\"vs\":[{\"l\":\"239e676c-f12f-489f-bf3a-d4c383d692c3\"},{\"l\":\"9d6456ce-6264-48b4-808d-2d96b3d91038\"}]}]}],\"t\":10}",
+      "Description": "Complete 10 Laser Tag games",
+      "Tooltip": "Finish 10 games in ^LaserTagHanger or ^LaserTagCyberJunk.",
+      "Complete": false
+    },
+    {
+      "ChallengeId": 147,
+      "Name": "CompleteGT",
+      "Config": "{\"ct\":0,\"ipc\":false,\"wc\":[{\"ct\":6,\"vs\":[2]},{\"ct\":9,\"vs\":[true],\"v\":\"won\"},{\"ct\":7,\"vs\":[{\"l\":\"91e16e35-f48f-4700-ab8a-a1b79e50e51b\"}]}]}",
+      "Description": "Complete the ^GoldenTrophy quest",
+      "Tooltip": "Vanquish the Goblin King in ^GoldenTrophy.",
+      "Complete": false
+    },
+    {
+      "ChallengeId": 118,
+      "Name": "Complete10PaintballGames",
+      "Config": "{\"ct\":1,\"ipc\":false,\"ctc\":[{\"ct\":0,\"ipc\":false,\"wc\":[{\"ct\":6,\"vs\":[2]},{\"ct\":7,\"vs\":[{\"l\":\"e122fe98-e7db-49e8-a1b1-105424b6e1f0\"},{\"l\":\"a785267d-c579-42ea-be43-fec1992d1ca7\"},{\"l\":\"ff4c6427-7079-4f59-b22a-69b089420827\"},{\"l\":\"380d18b5-de9c-49f3-80f7-f4a95c1de161\"},{\"l\":\"58763055-2dfb-4814-80b8-16fac5c85709\"},{\"l\":\"65ddbb48-5a01-4e3e-972d-e5c7419e2bc3\"}]}]}],\"t\":10}",
+      "Description": "Complete 10 games in ^Paintball",
+      "Tooltip": "Go to ^Paintball and finish 10 games across any maps.",
+      "Complete": false
+    },
+    {
+      "ChallengeId": 167,
+      "Name": "Complete10Dodgeball",
+      "Config": "{\"ct\":1,\"ipc\":false,\"ctc\":[{\"ct\":0,\"ipc\":false,\"wc\":[{\"ct\":6,\"vs\":[2]},{\"ct\":7,\"vs\":[{\"l\":\"3d474b26-26f7-45e9-9a36-9b02847d5e6f\"}]}]}],\"t\":10}",
+      "Description": "Complete 10 games in ^Dodgeball",
+      "Tooltip": "Go to ^Dodgeball and complete 10 games. ",
+      "Complete": false
+    }
+  ],
+  "Gifts": [
+    {
+      "GiftDropId": 3898,
+      "AvatarItemDesc": "",
+      "AvatarItemType": null,
+      "Currency": 100,
+      "CurrencyType": 1,
+      "Xp": 0,
+      "Level": 0,
+      "EquipmentPrefabName": "",
+      "EquipmentModificationGuid": "",
+      "StorefrontType": 1,
+      "ConsumableItemDesc": "",
+      "ItemSetId": null,
+      "ItemSetFriendlyName": "",
+      "QueryRedirectContext": null,
+      "QueryRedirectRarity": null,
+      "GiftContext": 4,
+      "GiftRarity": 30
+    },
+    {
+      "GiftDropId": 3899,
+      "AvatarItemDesc": "",
+      "AvatarItemType": null,
+      "Currency": 100,
+      "CurrencyType": 1,
+      "Xp": 0,
+      "Level": 0,
+      "EquipmentPrefabName": "",
+      "EquipmentModificationGuid": "",
+      "StorefrontType": 1,
+      "ConsumableItemDesc": "",
+      "ItemSetId": null,
+      "ItemSetFriendlyName": "",
+      "QueryRedirectContext": null,
+      "QueryRedirectRarity": null,
+      "GiftContext": 4,
+      "GiftRarity": 30
+    },
+    {
+      "GiftDropId": 3888,
+      "AvatarItemDesc": "",
+      "AvatarItemType": null,
+      "Currency": 100,
+      "CurrencyType": 1,
+      "Xp": 0,
+      "Level": 0,
+      "EquipmentPrefabName": "",
+      "EquipmentModificationGuid": "",
+      "StorefrontType": 1,
+      "ConsumableItemDesc": "",
+      "ItemSetId": null,
+      "ItemSetFriendlyName": "",
+      "QueryRedirectContext": null,
+      "QueryRedirectRarity": null,
+      "GiftContext": 4,
+      "GiftRarity": 30
+    }
+  ],
+  "FallbackGiftName": "Gay Star Box",
+  "StartAt": "2022-08-17T21:00:00Z",
+  "EndAt": "2099-08-24T21:00:00Z",
+  "ServerTime": "2022-08-23T21:26:32.9333892Z",
+  "CompleteAll": false
+}

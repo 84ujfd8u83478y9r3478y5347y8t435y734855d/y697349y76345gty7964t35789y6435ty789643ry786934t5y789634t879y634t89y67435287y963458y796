@@ -1,0 +1,100 @@
+{
+  "FeaturedPlayer": {
+    "Id": 69,
+    "TitleOverride": "Featured Lack of Player",
+    "UrlOverride": "https://cdn.discordapp.com/attachments/772155559540686848/1226302890180608000/PlaceHolder.jpg?ex=66244690&is=6611d190&hm=acbaf5596d839e1f3d2c7bfe5dad0cc44dc592a7b75916871fde1b6faf0b7873&"
+  },
+  "FeaturedRoomGroup": {
+    "Name": "November Highlights",
+    "FeaturedRooms": [
+      {
+        "RoomName": "Crescendo",
+        "RoomId": 10,
+        "ImageName": "Crescendo.png"
+      },
+      {
+        "RoomName": "Bowling",
+        "RoomId": 19,
+        "ImageName": "bowling.png"
+      }
+    ]
+  },
+  "CurrentAnnouncement": {
+    "Message": "kasper click more info",
+    "MoreInfoUrl": "https://cdn.discordapp.com/attachments/772155559540686848/1226302890180608000/PlaceHolder.jpg?ex=66244690&is=6611d190&hm=acbaf5596d839e1f3d2c7bfe5dad0cc44dc592a7b75916871fde1b6faf0b7873&"
+  },
+  "InstagramImages": [
+    {
+      "ImageName": "Community/Instagram/SRankREAL.jpg",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/BETAGOBSREAL.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/GayNess.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/DodgeBallBetterRTX.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/Donut.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/GetNakedWithMe.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/PlaceHolder.jpg",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/Poster.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/deez.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/WHAT.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/la_lechuga.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    },
+    {
+      "ImageName": "Community/Instagram/Test.png",
+      "ImageUrl": "https://www.instagram.com/p/Ckb55YeMEFX/"
+    }
+    
+  ],
+  "Videos": [
+    {
+      "BlobName": "Ded.mp4",
+      "Title": "Test",
+      "Description": "Test",
+      "ThumbnailBlobName": "Community/Videos/PlaceHolder.jpg",
+      "SourceUrl": "https://cdn.discordapp.com/attachments/772155559540686848/1226302890180608000/PlaceHolder.jpg?ex=66244690&is=6611d190&hm=acbaf5596d839e1f3d2c7bfe5dad0cc44dc592a7b75916871fde1b6faf0b7873&"
+    },
+    {
+      "BlobName": "Love Myself.mp4",
+      "Title": "Love Myself Girl",
+      "Description": "Women Are Scary",
+      "ThumbnailBlobName": "Community/Videos/Love Myself.png",
+      "SourceUrl": "https://cdn.discordapp.com/attachments/772155559540686848/1226302890180608000/PlaceHolder.jpg?ex=66244690&is=6611d190&hm=acbaf5596d839e1f3d2c7bfe5dad0cc44dc592a7b75916871fde1b6faf0b7873&"
+    },
+    {
+      "BlobName": "deez.mp4",
+      "Title": "deez",
+      "Description": "yes",
+      "ThumbnailBlobName": "Community/Videos/deez.png",
+      "SourceUrl": "https://cdn.discordapp.com/attachments/772155559540686848/1226302890180608000/PlaceHolder.jpg?ex=66244690&is=6611d190&hm=acbaf5596d839e1f3d2c7bfe5dad0cc44dc592a7b75916871fde1b6faf0b7873&"
+    }
+  ]
+}

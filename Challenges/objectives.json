@@ -1,0 +1,92 @@
+{
+    "Objectives": [
+        {
+            "Index": 0,
+            "Group": 3,
+            "Progress": 0.0,
+            "VisualProgress": 0.0,
+            "IsCompleted": true,
+            "HasClaimedReward": true,
+            "ModifiedAt": "2022-08-20T19:24:52.8018294Z"
+        },
+        {
+            "Index": 1,
+            "Group": 3,
+            "Progress": 0.0,
+            "VisualProgress": 0.0,
+            "IsCompleted": true,
+            "HasClaimedReward": true,
+            "ModifiedAt": "2022-08-20T19:25:12.8847425Z"
+        },
+        {
+            "Index": 2,
+            "Group": 3,
+            "Progress": 0.0,
+            "VisualProgress": 0.0,
+            "IsCompleted": true,
+            "HasClaimedReward": true,
+            "ModifiedAt": "2022-08-20T19:25:19.6259846Z"
+        },
+        {
+            "Index": 3,
+            "Group": 3,
+            "Progress": 0.0,
+            "VisualProgress": 0.0,
+            "IsCompleted": true,
+            "HasClaimedReward": true,
+            "ModifiedAt": "2022-08-20T19:25:32.6506499Z"
+        },
+        {
+            "Index": 4,
+            "Group": 3,
+            "Progress": 0.0,
+            "VisualProgress": 0.0,
+            "IsCompleted": true,
+            "HasClaimedReward": true,
+            "ModifiedAt": "2022-08-20T19:26:40.1838273Z"
+        },
+        {
+            "Index": 16,
+            "Group": 3,
+            "Progress": 0.0,
+            "VisualProgress": 0.0,
+            "IsCompleted": true,
+            "HasClaimedReward": true,
+            "ModifiedAt": "2022-08-20T19:26:40.4650355Z"
+        },
+        {
+            "Index": 31,
+            "Group": 3,
+            "Progress": 0.0,
+            "VisualProgress": 0.0,
+            "IsCompleted": true,
+            "HasClaimedReward": true,
+            "ModifiedAt": "2022-08-20T20:16:37.1010199Z"
+        },
+        {
+            "Index": 10,
+            "Group": 3,
+            "Progress": 0.0,
+            "VisualProgress": 0.0,
+            "IsCompleted": true,
+            "HasClaimedReward": true,
+            "ModifiedAt": "2022-08-20T20:25:14.9008401Z"
+        },
+        {
+            "Index": 11,
+            "Group": 3,
+            "Progress": 0.0,
+            "VisualProgress": 0.0,
+            "IsCompleted": true,
+            "HasClaimedReward": true,
+            "ModifiedAt": "2022-08-20T20:25:23.1079069Z"
+        }
+    ],
+    "ObjectiveGroups": [
+        {
+            "Group": 0,
+            "IsCompleted": false,
+            "ClearedAt": "2022-08-23T20:47:45.5601086Z"
+        }
+    ]
+}
